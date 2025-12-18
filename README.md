@@ -5,11 +5,9 @@
 - 🌱 I’m currently learning:Python
 - 👯 I’m looking to collaborate on:Python, React, HTML, CSS, PHP...
 - 🤔 I’m looking for help with:Python, React
-- 📫 How to reach me:isamorenozamora@hotmail.com
+- 📫 How to reach me: zamoraisaiasmoreno@gmail.com
 - 😄 Pronouns: EL/Mr/Him/His
-- ⚡ Fun fact: Me gusta bailar pero no se bailar :).
-
+- ⚡ Fun fact: I like to dance but I do not know how to dance lol.
 
 ### About me/ Acerca de mi 👋
-Me encanta aprender, ya que siempre estoy en busca de mejorar mis habilidades como programador, dipusto a colaborar en proyectos de software siempre con una gran actitud.
-
+I love learning, as I am always looking to improve my programming skills, and I am willing to collaborate on software projects with a great attitude.
